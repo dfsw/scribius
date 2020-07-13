@@ -48,3 +48,21 @@
 - Better lasty detection
 - Failing to detect any characters will prompt the user to save a debug log file (on Rescan All only)
 - Fixed an issue not showing ranks that you never trained but had effective ranks in
+
+   0.2.6b
+- Fixed a crash that would cause people who used time stamps to not be able to add characters
+- Fixed several possible crashes while scanning
+- Fixed a bug that might(probably would) count bulk ranks twice if you rescan the same log files
+
+
+   0.2.7b
+- Effective Duvin now takes into account Goss training bonuses
+- Numerous improvements to log scanning, presentation and functionality
+- Darkstone uses have been replaced with Shadow Bell usage and break rates. (please complain if you still find value in knowing your darkstone uses)
+- Support for pet rank tracking
+- Support for pet coin level detection
+- Vala Loack ranks are tracked properly now
+- Added levels for a couple of barbershop creatures, more to come
+- Updated Bodrus, Mentus, Spiritus with their Master titles, which fixes an issue with bulk ranks not showing up properly
+
+** You will want to do a full rescan to fix issues from previous versions
