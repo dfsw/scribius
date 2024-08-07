@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Scribius</title>
+        <item>
+            <title>0.4.0b</title>
+            <pubDate>Wed, 07 Aug 2024 22:17:39 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.4.0b</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://your_github_username.github.io./your_repository_name/Scribius.dmg" length="4493758" type="application/octet-stream" sparkle:edSignature="CXCQA73OojmHQUjwwJVSMtWYXD6/28AGhu6NI8eIZqj5eN8R0u5f3uFzBSedmx/mFIc9BmE0enQdS3U8wYcWDg=="/>
+        </item>
+    </channel>
+</rss>
