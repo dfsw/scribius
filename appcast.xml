@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://your_github_username.github.io./your_repository_name/Scribius.dmg" length="4493758" type="application/octet-stream" sparkle:edSignature="CXCQA73OojmHQUjwwJVSMtWYXD6/28AGhu6NI8eIZqj5eN8R0u5f3uFzBSedmx/mFIc9BmE0enQdS3U8wYcWDg=="/>
+            <enclosure url="https://github.com/dfsw/scribius/blob/e94497772985451e35e72f241b77cf44d84a2a36/Scribius040.dmg" length="4493758" type="application/octet-stream" sparkle:edSignature="CXCQA73OojmHQUjwwJVSMtWYXD6/28AGhu6NI8eIZqj5eN8R0u5f3uFzBSedmx/mFIc9BmE0enQdS3U8wYcWDg=="/>
         </item>
     </channel>
 </rss>
