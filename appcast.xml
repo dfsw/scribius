@@ -4,11 +4,11 @@
         <title>Scribius</title>
         <item>
             <title>0.4.1</title>
-            <pubDate>Wed, 14 Aug 2024 15:44:30 +0200</pubDate>
+            <pubDate>Wed, 14 Aug 2024 16:09:31 +0200</pubDate>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="4498500" type="application/octet-stream" sparkle:edSignature="UOK3294yeS+KoFMyNgz6NZMbXW575fP4J1Y8+EgYJVHQSXOVvs9OEJj75d2WdgmtGnRCEf/EI3KVAhle7fonAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="4505645" type="application/octet-stream" sparkle:edSignature="zzZGIo8RO9G9tT6OfL7NBMFIBadrcBIYmWpUQsPsn6CIWF2ohVhhR66D48eSuwnQnIv7o5uyswvj52ini3YPAQ=="/>
         </item>
     </channel>
 </rss>
