@@ -3,12 +3,12 @@
     <channel>
         <title>Scribius</title>
         <item>
-            <title>0.4.1</title>
-            <pubDate>Wed, 14 Aug 2024 16:09:31 +0200</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <title>0.4.2</title>
+            <pubDate>Wed, 14 Aug 2024 17:58:42 +0200</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="4505645" type="application/octet-stream" sparkle:edSignature="zzZGIo8RO9G9tT6OfL7NBMFIBadrcBIYmWpUQsPsn6CIWF2ohVhhR66D48eSuwnQnIv7o5uyswvj52ini3YPAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="4505163" type="application/octet-stream" sparkle:edSignature="lk9y9P1kjV7fYOrXgF4AK2WYOZi/lAtDoUkT+1X1U0R3GBrefyKoUKp3qE/dx8BJppdL4493Ew/DjUYjG3QGCQ=="/>
         </item>
     </channel>
 </rss>
