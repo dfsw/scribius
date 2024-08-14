@@ -126,21 +126,21 @@
  - Shieldstone usage and breakage is now tracked for Champions, Rangers, and Bloodmages (a full refresh is required)
  
  0.4.0b
- - Completely rewrote and refactored how data is stored and processed, which will open the door for a bunch of really awesome new features down the road
- - Updated monster coin values (Shadowplane, Orionwood, and Bookfort areas)
- - Fixed an issue that would improperly count deaths to unique boss names
- - Provided an option to group Fane Bosses and Ravens in the kill list instead of breaking them out by name
- - Better filtering out of illogical monster names
- - Better profession detection for exiles who have not choosen a profession
- - Detection of older pet grows much stronger message (that uses Kennel)
- - Fixed typo with Loovma and Angilsa that prevented you from modifing those ranks 
- - Rank modifer menus are now alphabetical
- - Added support for Darktur
- - Fixed a bug where a modified rank may not appear if you have never trained it (Also added a new preference for this)
- - Finally have an icon
- - Trainer table now shows the date it was most recently trained
- - Effective ranks are now calculated for combo trainers, effective ranks is also now more accurate
- - With log searching you can now display X additional lines after your search result
- - Intergrated automatic update checking so you dont have to watch Discord for new update messages anymore
+-Completely rewrote and refactored how data is stored and processed, which will open the door for a bunch of really awesome new features down the road
+-Updated monster coin values (Shadowplane, Orionwood, and Bookfort areas)
+-Fixed an issue that would improperly count deaths to unique boss names
+-Provided an option to group Fane Bosses and Ravens in the kill list instead of breaking them out by name
+-Better filtering out of illogical monster names
+-Better profession detection for exiles who have not chosen a profession
+-Detection of older pet grows much stronger message (that uses Kennel)
+-Fixed typo with Loovma and Angilsa that prevented you from modifying those ranks
+-Rank modifier menus are now alphabetical
+-Added support for Darktur
+-Fixed a bug where a modified rank may not appear if you have never trained it (Also added a new preference for this)
+-Finally have an icon
+-Trainer table now shows the date it was most recently trained
+-Effective ranks are now calculated for combo trainers, effective ranks is also now more accurate
+-With log searching you can now display X additional lines after your search result
+-Integrated automatic update checking so you dont have to watch Discord for new update messages anymore
  
  (A full Scan All is required for continued use)
