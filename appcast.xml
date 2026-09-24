@@ -3,6 +3,15 @@
     <channel>
         <title>Scribius</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 24 Sep 2026 17:03:24 +0200</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>Fixed a bug that could mark players as the wrong class</description>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5413018" type="application/octet-stream" sparkle:edSignature="Z6r4K8BlKcZwVbk0isP/PgKtYrDyZb4syM4SqqBXRjrgTfAXApTaewXQfy+j1NXEficcvw0tyBhF2NzfrFsXCw=="/>
+        </item>
+        <item>
             <title>2.0</title>
             <pubDate>Thu, 24 Sep 2026 15:38:43 +0200</pubDate>
             <sparkle:version>44</sparkle:version>
