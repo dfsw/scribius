@@ -48,6 +48,10 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 ## Changelog
 
+### 2.0.1
+
+- Fixed a bug that could mark players as the wrong class
+
 ### 2.0
 
 - Major rewrite to move to SwiftData, which will make things faster and more stable but does have the drawback of requiring macOS 14 or newer (2022), you can continue to use an older version if you do not have macOS 14 or newer. You will need to do a full rescan of your logs when moving to this version but your modified ranks should be preserved. SwiftData gives me a lot more flexibility to do a lot of things that I have been wanting to do forever.
