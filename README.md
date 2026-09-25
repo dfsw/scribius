@@ -48,6 +48,10 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 ## Changelog
 
+### 2.0.2
+
+- Fixed modified ranks showing up in the Ranks table when viewing Last Scan results
+
 ### 2.0.1
 
 - Fixed a bug that could mark players as the wrong class

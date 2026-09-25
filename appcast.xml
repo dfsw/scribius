@@ -3,13 +3,20 @@
     <channel>
         <title>Scribius</title>
         <item>
+            <title>2.0.2</title>
+            <pubDate>Fri, 25 Sep 2026 15:48:02 +0200</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5410939" type="application/octet-stream" sparkle:edSignature="Z7+JRX90QebYGg7+EGDc337IBhgOOFkK1yP5if+Zugq9z0GpgjcimLSQ7XzemcyG+cXkLtI82YgG86aU+NvADQ=="/>
+        </item>
+        <item>
             <title>2.0.1</title>
             <pubDate>Thu, 24 Sep 2026 17:03:24 +0200</pubDate>
             <sparkle:version>45</sparkle:version>
             <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description>Fixed a bug that could mark players as the wrong class</description>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5413018" type="application/octet-stream" sparkle:edSignature="Z6r4K8BlKcZwVbk0isP/PgKtYrDyZb4syM4SqqBXRjrgTfAXApTaewXQfy+j1NXEficcvw0tyBhF2NzfrFsXCw=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius2.0.1.dmg" length="5413018" type="application/octet-stream" sparkle:edSignature="Z6r4K8BlKcZwVbk0isP/PgKtYrDyZb4syM4SqqBXRjrgTfAXApTaewXQfy+j1NXEficcvw0tyBhF2NzfrFsXCw=="/>
         </item>
         <item>
             <title>2.0</title>
