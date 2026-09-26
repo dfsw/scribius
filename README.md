@@ -22,13 +22,13 @@ A chart of your training over time. Watch your total ranks climb, or break it ou
 
 Everything you've killed, sortable by level, with vanquish/dispatch/slaughter/kill counts, how many times it's dropped you, and when you got your first real kill on it. There's a filter box, and an option to group Fane bosses and ravens together instead of listing each one by name.
 
-![Creatures](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius2.png)
+![Creatures](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius3.png)
 
 ### Info
 
 The character summary sheet: start date, logins, falls, departs, chain usage and break rates, karma, kills per login, ranks per login, your nemesis, environmental deaths, your most common mistake, ethereal portals, shieldstone break rate, casino profit, lifetime coin earnings, and more. Rangers also get their lasty study progress here: befriended creatures (Q/NQ for morph), lastys remaining, and kills since your last study message.
 
-![Info](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius3.png)
+![Info](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius4.png)
 
 ### More
 
@@ -38,7 +38,7 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 - **Pets**: tracks "grows stronger" / "grows much stronger" messages, pet kills, and pet coin level. Pet data can be merged or deleted from the healer More Info area.
 - **All Data / Last Scan**: flip the Ranks and Creatures tables between your full history and just what the latest scan found.
 
-![More Info](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius4.png)
+![More Info](https://raw.githubusercontent.com/dfsw/scribius/master/wiki%20images/scribius2.png)
 
 ## Notes
 
