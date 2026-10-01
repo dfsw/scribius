@@ -48,6 +48,11 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 ## Changelog
 
+### 2.0.4
+
+- Departs are now more accurately reflective of your logs' experiences.
+- Character logs who reside in folders not named for them either because of typos or renaming characters should behave better.
+
 ### 2.0.3
 
 - Fixed a bug that could cause Lasty messages to appear slightly out of sync
