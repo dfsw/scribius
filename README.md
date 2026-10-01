@@ -48,6 +48,10 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 ## Changelog
 
+### 2.0.3
+
+- Fixed a bug that could cause Lasty messages to appear slightly out of sync
+
 ### 2.0.2
 
 - Fixed modified ranks showing up in the Ranks table when viewing Last Scan results
