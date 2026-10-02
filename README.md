@@ -48,6 +48,10 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 ## Changelog
 
+### 2.0.5
+
+- Minor admin tweaks to behind the scenes updating stuff
+
 ### 2.0.4
 
 - Departs are now more accurately reflective of your logs' experiences.
