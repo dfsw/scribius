@@ -12,7 +12,7 @@
 - Character logs who reside in folders not named for them either because of typos or renaming characters should behave better.
 - Casino blackjack results are now tracked and show up in your coin tab.
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5454398" type="application/octet-stream" sparkle:edSignature="TADZvrMeJbb+hQGDW0cF4le+8tzo2Ed6+aAic6U+c2SrTD8zZvuUo/9tQBgkzGGSBnt8T1+BlypY9zxrqPoAAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Older%20Versions/Scribius2.0.4.dmg" length="5454398" type="application/octet-stream" sparkle:edSignature="TADZvrMeJbb+hQGDW0cF4le+8tzo2Ed6+aAic6U+c2SrTD8zZvuUo/9tQBgkzGGSBnt8T1+BlypY9zxrqPoAAA=="/>
         </item>
         <item>
             <title>2.0.3</title>
@@ -20,7 +20,7 @@
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5422589" type="application/octet-stream" sparkle:edSignature="aLfqiNUHDTzekfVVXt++AbzPE5f5epKE7IOlnocFS6aHnbPOg/68tcWpdS40mzXlGTaf2u/qn/geZ2vGY2gjCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Older%20Versions/Scribius2.0.3.dmg" length="5422589" type="application/octet-stream" sparkle:edSignature="aLfqiNUHDTzekfVVXt++AbzPE5f5epKE7IOlnocFS6aHnbPOg/68tcWpdS40mzXlGTaf2u/qn/geZ2vGY2gjCQ=="/>
         </item>
         <item>
             <title>2.0.2</title>
@@ -28,7 +28,7 @@
             <sparkle:version>46</sparkle:version>
             <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5413109" type="application/octet-stream" sparkle:edSignature="HLYwBdUGY8MhQR9rBwddh19YSYFsJLdK4MzCLhcVMVrxAZ1IQKrG1/0NUc+sXnIq025YZ6Q1WieEdEuwo9rEDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Older%20Versions/Scribius2.0.2.dmg" length="5413109" type="application/octet-stream" sparkle:edSignature="HLYwBdUGY8MhQR9rBwddh19YSYFsJLdK4MzCLhcVMVrxAZ1IQKrG1/0NUc+sXnIq025YZ6Q1WieEdEuwo9rEDw=="/>
         </item>
     </channel>
 </rss>
