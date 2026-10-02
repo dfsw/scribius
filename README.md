@@ -52,6 +52,7 @@ The character summary sheet: start date, logins, falls, departs, chain usage and
 
 - Departs are now more accurately reflective of your logs' experiences.
 - Character logs who reside in folders not named for them either because of typos or renaming characters should behave better.
+- Casino blackjack results are now tracked and show up in your coin tab.
 
 ### 2.0.3
 

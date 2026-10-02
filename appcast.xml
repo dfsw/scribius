@@ -3,6 +3,18 @@
     <channel>
         <title>Scribius</title>
         <item>
+            <title>2.0.4</title>
+            <pubDate>Fri, 02 Oct 2026 16:04:03 +0200</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Departs are now more accurately reflective of your logs' experiences.
+- Character logs who reside in folders not named for them either because of typos or renaming characters should behave better.
+- Casino blackjack results are now tracked and show up in your coin tab.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5454398" type="application/octet-stream" sparkle:edSignature="TADZvrMeJbb+hQGDW0cF4le+8tzo2Ed6+aAic6U+c2SrTD8zZvuUo/9tQBgkzGGSBnt8T1+BlypY9zxrqPoAAA=="/>
+        </item>
+        <item>
             <title>2.0.3</title>
             <pubDate>Thu, 01 Oct 2026 20:09:45 +0200</pubDate>
             <sparkle:version>47</sparkle:version>
@@ -17,14 +29,6 @@
             <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius.dmg" length="5413109" type="application/octet-stream" sparkle:edSignature="HLYwBdUGY8MhQR9rBwddh19YSYFsJLdK4MzCLhcVMVrxAZ1IQKrG1/0NUc+sXnIq025YZ6Q1WieEdEuwo9rEDw=="/>
-        </item>
-        <item>
-            <title>2.0.1</title>
-            <pubDate>Thu, 24 Sep 2026 17:03:24 +0200</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dfsw/scribius/master/Scribius2.0.1.dmg" length="5413018" type="application/octet-stream" sparkle:edSignature="Z6r4K8BlKcZwVbk0isP/PgKtYrDyZb4syM4SqqBXRjrgTfAXApTaewXQfy+j1NXEficcvw0tyBhF2NzfrFsXCw=="/>
         </item>
     </channel>
 </rss>
